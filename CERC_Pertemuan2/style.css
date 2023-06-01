@@ -1,0 +1,26 @@
+p {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* Selector Class */
+.navbar-text {
+    color: red;
+}
+
+.kotak1{
+    width: 60%;
+    height: 50px;
+    background-color: aqua;
+}
+
+/* Selector Id untuk satu komponen (unik)*/
+#navbar{
+    background-color: lightskyblue;
+}
+#jumbotron{
+    background-color: salmon;
+}
+#footer{
+    background-color: magenta;
+}
